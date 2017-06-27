@@ -5,8 +5,8 @@ import './App.css';
 class App extends Component {
   state = {
       mood: 'Sad',
-      message2: "TAKE ME TO CHICKEN PLACE OR I DIE. MOVE UR FAT FINGERS NOW.",
-      buttonMessage: "CLICK THIS U ASSHOLE",
+      message2: "TAKE ME TO A CHICKEN PLACE OR I DIE. MOVE UR FAT FINGERS NOW.",
+      buttonMessage: "CLICK THIS U MORON",
       donateQRcode: ""
 
   }
